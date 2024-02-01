@@ -1,4 +1,4 @@
-# Walmart Retail Store Data Analysis and Analytics
+# Walmart Retail Store Data Analysis 
 
 ## Table of Contents
 1. [Introduction](#introduction)
