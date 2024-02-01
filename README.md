@@ -5,7 +5,7 @@
 2. [Objectives](#objectives)
 3. [Technologies Used](#technologies-Used)
 4. [Dataset / Database](#dataset--database)
-5. [Insights](#insights)
+5. [Key Insights](#key-insights)
 6. [Applications](#applications)
 7. [Contributing](#contributing)
 
